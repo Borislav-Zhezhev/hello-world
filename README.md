@@ -1,3 +1,3 @@
 # hello-world
 
-Learning how to 1uee github. Fun! :)
+Learning how to use github. Fun! :)
