@@ -1,2 +1,3 @@
 # hello-world
-Training repo
+
+Learning how to 1uee github. Fun! :)
